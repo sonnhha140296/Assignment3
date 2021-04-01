@@ -38,7 +38,7 @@ body{
 	
 }
 .header{
-	background: url("/Users/mac/Desktop/WebAss3/Port/images/Web 1920 – 16.png") no-repeat center top;
+	background: url("/images/Web 1920 – 16.png") no-repeat center top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -540,7 +540,7 @@ ul.wmuSliderPagination {
 }
 div#portfoliolist {
 	padding: 20px 20px 0 20px;
-	background: url("/Users/mac/Desktop/WebAss3/Port/images/Asset 2.png") no-repeat;
+	background: url("/images/Asset 2.png") no-repeat;
 	background-size: 100% 100%;
 }	
 .portfolio-wrapper {
